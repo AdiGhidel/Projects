@@ -1,0 +1,151 @@
+﻿Build started 11/11/2014 2:54:05 AM.
+     1>Project "C:\Users\Ady\Desktop\EGC\tema2\lab3\lab2\lab2.vcxproj" on node 2 (Build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\tema2.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         H:\Facultate\Visual studio 2012\VC\bin\CL.exe /c /Idependente /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\framework\object2d.h(23): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\framework\object3d.h(18): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\framework\object3d.h(37): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\framework\object3d.h(42): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\framework\object3d.h(55): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\framework\object3d.h(60): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\framework\circle2d.h(24): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\framework\circle2d.h(48): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(23): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(24): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(27): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(177): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(178): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(182): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(183): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(231): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(242): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(243): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(247): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(248): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(296): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(361): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(372): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(373): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(377): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(378): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(424): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(438): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(439): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(442): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(443): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(490): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(498): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(509): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(510): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(514): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(515): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(563): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(569): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(633): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(639): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(649): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(650): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(654): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(655): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(701): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(707): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(778): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(784): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(852): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(859): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(926): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(992): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(999): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(1065): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(1072): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(1079): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(1086): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(1094): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(1101): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(1108): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(1115): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(1215): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(1221): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(1284): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(1310): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(1311): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(1313): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(1314): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(1315): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(1316): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(1363): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(1371): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(1387): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(1388): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(1392): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(1393): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(1441): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(1449): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(1517): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(1525): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(1590): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(1598): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(1672): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(1681): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(1692): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(1693): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(1697): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(1698): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(1705): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(1706): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(1710): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(1711): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(1759): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(1766): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(1785): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(1790): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(1837): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(1845): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(1864): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(1865): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(1866): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(1867): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(1914): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(1922): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(1944): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(1945): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(1946): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(1947): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(1948): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(1967): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(1984): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(2008): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(2009): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(2010): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(2048): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(2054): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(2060): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(2066): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(2087): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(2116): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(2144): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(2171): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(2197): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(2207): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(2216): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(2225): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(2241): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\ady\desktop\egc\tema2\lab3\lab2\main.cpp(2280): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+       Link:
+         H:\Facultate\Visual studio 2012\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Ady\Desktop\EGC\tema2\lab3\Debug\tema2.exe" /INCREMENTAL /NOLOGO /LIBPATH:dependente freeglut.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Ady\Desktop\EGC\tema2\lab3\Debug\tema2.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Ady\Desktop\EGC\tema2\lab3\Debug\tema2.lib" /MACHINE:X86 Debug\DrawingWindow.obj
+         Debug\Transform2D.obj
+         Debug\Transform3D.obj
+         Debug\Visual2D.obj
+         Debug\main.obj
+         lab2.vcxproj -> C:\Users\Ady\Desktop\EGC\tema2\lab3\Debug\tema2.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\tema2.unsuccessfulbuild".
+         Touching "Debug\tema2.lastbuildstate".
+     1>Done Building Project "C:\Users\Ady\Desktop\EGC\tema2\lab3\lab2\lab2.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.62
